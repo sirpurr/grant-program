@@ -88,9 +88,9 @@ Future Roadmap: Majoritarian and Quadratic Electoral Systems on Blockchain, Dyna
 
 #### Overview
 
-|  | Majoritarian System | Quadratic System | Dynamic Rating System | Data Science | NLP | Exchange | Reservation System | Payment Gateway | Market Prediction | Total |
+|  | Majoritarian System | Quadratic System | Dynamic Rating System | Reservation System | Payment Gateway | Market Prediction | Total |
 | - | - | - | - | - | - | - | - | - | - | - |
-| Estimated Duration | 30 d | 30 d | 60 d |
+| Estimated Duration | 30 d | 30 d | 30 d |
 | Full-time equivalent (FTE) | 2 | 1 | 3 |
 | Cost (up to $ 30,000) | $ 5,000 | $ 10,000 | $ 15,000|
 
