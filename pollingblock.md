@@ -15,16 +15,13 @@ Please provide the following:
 
 PollingBlock records poll data on blockchain for auditability while helping clients identify, engage, and collect intelligence from target audience.
 
-
 - An indication of why your team is interested in creating this project within the VeChain Ecosystem. 
 
 PollingBlock aspires to be a civic tech which echoes VeChain's emphasis on governance applications.
 
-
 - If relevant, an indication of how you will integrate tools and features (e.g., Sync2/Connex, fee delegation protocols, MTT, etc) to enhance your project. 
 
 PollingBlock will migrate from Ethereum to VeChainThor for our poll data recordkeeping, use Connex to bridge server-side data and VeChainThor, and issue every platform user a Sync2 wallet.
-
 
 ### Project Details
 
@@ -38,28 +35,27 @@ Therefore, we ask the teams to submit (where relevant):
 
 ### Ecosystem Fit
 Are there any other projects similar to yours? If so, how is your project different?
-Vocdoni.io of Aragon.org
-
+Two civic tech initiatives similar to ours are Vocdoni.io (part of Aragon.org) and Pol.is, but what sets us apart is we are not just another poll-creating tool like SurveyMonkey.com. We bring voters to the polls with a social media gamification that enables users to monetize their own data while fully complying with GDPR. YouGov.com also share some similarities as far as the reward system goes but we differ by placing more emphasis on civic usages rather than strictly market surveys. We also champion ideas from RadicalxChange.org and plan to introduce quadratic voting and ranked voting as new features. 
 
 ## Team 
 
 ### Team members
 
 - Name of team leader: Nick Chang
-- Names of team members: Sunny Wu, Sky Huang, Crosby Lin
+- Names of team members: Sunny He-Jung Wu, Sky Tien-Lin Huang, Crosby Lin
 
 ### Team Website
 
-- https://<your_domain>
+- https://dev.poll.money
 
 ### Team's experience
 
 Please describe the team's relevant experience. If the project involves development work, then we'd appreciated it if you can single out a few interesting codes commits made by team members on their past projects. 
 
-Nick Chang is a founding member of Taiwan's first and largest cryptocurrency exchange established in 2014. He was responsible for growing the team from 3 to 70 people, handled all aspects of business except for coding and fundraising. 
-Sunny Wu is a seasoned backend developer with 4 years of experience in blockchain smart contracts. He is a founding member of a blockchain universal basic income initiative.
-Sky Huang is a full-stack developer experienced in SCRUM development.
-Crosby Lin is an experienced entrepreneur and a designer who serves as a devil's advocate in the gamification design and marketing strategy.
+Nick Chang is a founding member and general manager of Taiwan's first and largest cryptocurrency exchange established in 2014. He was responsible for growing the team from 3 to 70 people and handled all aspects of the business conducts except for coding and fundraising. 
+Sunny He-Jung Wu is a seasoned backend developer with 4 years of experience in blockchain smart contracts. He is a founding member of a blockchain-based universal basic income initiative launched by Joint Commonwealth Inc.
+Sky Tien-Lin Huang is a full stack developer experienced in SCRUM, JavaScript, Express.js, NodeJS, Vue.js, etc. He is also a founding member of Joint Commonwealth Inc.
+Crosby Lin is an experienced entrepreneur with a designer background. He is a marketing strategist and serves as a devil's advocate that provides sanity check on major decisions. 
 
 ### Team Code Repos
 
@@ -68,8 +64,9 @@ Crosby Lin is an experienced entrepreneur and a designer who serves as a devil's
 
 ### Team LinkedIn Profiles
 
-- https://www.linkedin.com/<person_1>
-- https://www.linkedin.com/<person_2>
+- https://www.linkedin.com/in/nick-chang/
+- https://www.linkedin.com/in/hejung-wu/
+- https://www.linkedin.com/in/kenornotes/
 
 ## Development Roadmap 
 
@@ -83,13 +80,16 @@ Below we provide an <b>example roadmap</b>. For each milestone:
 - Please provide a test suite, comprising unit and integration tests, along with a guide on how to run these.
 - Please commit to providing dockerfiles for the delivery of your project.
 
+Built: Plurality Electoral System on Blockchain, Social Network (user tier, photo upload, comment/like/dislike, tag), Gamification (campaigns)
+
+Future Roadmap: Majoritarian and Quadratic Electoral Systems on Blockchain, Dynamic Rating System on Blockchain, Data Science Label System, NLP, Crypto Asset Exchange, Venue Reservation, Payment Gateway, Market Prediction
 
 ### Example Roadmap for a dApp Application
 
 #### Overview
 
-|  | Milestone 1 | Milestone 2 | Total |
-| - | - |- | - |
+|  | Majoritarian System | Quadratic System | Dynamic Rating System | Data Science | NLP | Exchange | Reservation System | Payment Gateway | Market Prediction | Total |
+| - | - | - | - | - | - | - | - | - | - | - |
 | Estimated Duration | 30 d | 30 d | 60 d |
 | Full-time equivalent (FTE) | 2 | 1 | 3 |
 | Cost (up to $ 30,000) | $ 5,000 | $ 10,000 | $ 15,000|
