@@ -15,13 +15,16 @@ Please provide the following:
 
 PollingBlock records poll data on blockchain for auditability while helping clients identify, engage, and collect intelligence from target audience.
 
+
 - An indication of why your team is interested in creating this project within the VeChain Ecosystem. 
 
 PollingBlock aspires to be a civic tech which echoes VeChain's emphasis on governance applications.
 
+
 - If relevant, an indication of how you will integrate tools and features (e.g., Sync2/Connex, fee delegation protocols, MTT, etc) to enhance your project. 
 
 PollingBlock will migrate from Ethereum to VeChainThor for our poll data recordkeeping, use Connex to bridge server-side data and VeChainThor, and issue every platform user a Sync2 wallet.
+
 
 ### Project Details
 
