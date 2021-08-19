@@ -88,9 +88,9 @@ Future Roadmap: Majoritarian and Quadratic Electoral Systems on Blockchain, Dyna
 
 #### Overview
 
-|  | Majoritarian System | Quadratic System | Dynamic Rating System | Reservation System | Payment Gateway | Market Prediction | Total |
-| - | - | - | - | - | - | - | - | - | - | - |
-| Estimated Duration | 30 d | 30 d | 30 d |
+|  | Milestone 1 | Milestone 2 | Total |
+| - | - | - | - |
+| Estimated Duration | 30 d | 30 d | 60 d |
 | Full-time equivalent (FTE) | 2 | 1 | 3 |
 | Cost (up to $ 30,000) | $ 5,000 | $ 10,000 | $ 15,000|
 
@@ -131,4 +131,4 @@ Any additional information that you think is relevant to this application that h
 Possible additional information to include:
 - What work has been done so far? We have devised a go-to-market strategy and a budget allocation to acquire 3000 unique users when we launch.
 - Are there any teams who have already contributed (financially) to the project? Yes, founder Nick Chang has committed close to $100,000 USD on PoC, MVP, patent, legal documentation, and other operational expenses.
-- Have you applied for other grants so far? We have received one grant from the local governmment.
+- Have you applied for other grants so far? We accepted one grant from the local governmment.
